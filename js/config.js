@@ -3,21 +3,21 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file ,relative to root directory (img/logo.png)
-    siteName: 'CMS.JS THEMES',
+    siteName: 'SECOIA',
 
     // Tagline for your site
-    siteTagline: ' The simple theme for cms.js',
+    siteTagline: ' Social ECOnomy Impact Assessement',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'martin@erpicum.net',
 
     // Name
     siteAuthor: 'CaiCai',
 
     // Navigation items
     siteNavItems: [
-      { name: 'About'},
-      { name: 'Github', href: 'https://github.com/hi-caicai', newWindow: false}
+      { name: 'Contexte'},
+      { name: 'Équipe'}
 
     ],
 
@@ -46,8 +46,8 @@ $(function() {
     // If Github mode is set, your Github username and repo name. Defaults
     // to Github pages branch (gh-pages)
     githubUserSettings: {
-      username: 'hi-caicai',
-      repo: 'cms.js-themes'
+      username: 'tinamarre',
+      repo: 'cms.js-secoia'
     }
 
   });
