@@ -13,11 +13,11 @@ Afin d’identifier et de refléter au mieux les réalités observées sur le te
 
 Une étude réalisée pour la Région Wallonne (DG06), par :
 
--	[Centre d’Economie Sociale http://www.ces.ulg.ac.be], HEC, Université de Liège
--	[Spiral http://www.spiral.ulg.ac.be], Département de Sciences Politiques, Université de Liège
--	[Ciriec asbl http://www.ciriec.ulg.ac.be]
--	[SAW-B asbl http://www.saw-b.be]
--	[Cabinet d’avocat MOSAL http://www.mosal.be]
+-	[Centre d’Economie Sociale] (http://www.ces.ulg.ac.be), HEC, Université de Liège
+-	[Spiral] (http://www.spiral.ulg.ac.be), Département de Sciences Politiques, Université de Liège
+-	[Ciriec asbl] (http://www.ciriec.ulg.ac.be)
+-	[SAW-B asbl] (http://www.saw-b.be)
+-	[Cabinet d’avocat MOSAL] (http://www.mosal.be)
 
 Infos
 =======================
